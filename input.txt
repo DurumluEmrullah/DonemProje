@@ -1,0 +1,6 @@
+heLLo world:1,6
+Welcome to C:3,co
+welcome to marmara university!:3,mar
+We love CSE!!:4
+stat
+exit
